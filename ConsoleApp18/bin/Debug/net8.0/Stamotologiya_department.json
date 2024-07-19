@@ -1,0 +1,65 @@
+{
+  "Name": "Stamotologiya",
+  "Doctors": [
+    {
+      "Experience": 15,
+      "AppointmentTimes": [
+        "09:00-11:00",
+        "12:00-14:00",
+        "15:00-17:00"
+      ],
+      "Reserved": [
+        false,
+        false,
+        false
+      ],
+      "FirstName": "Leyla",
+      "LastName": "Huseynova"
+    },
+    {
+      "Experience": 6,
+      "AppointmentTimes": [
+        "09:00-11:00",
+        "12:00-14:00",
+        "15:00-17:00"
+      ],
+      "Reserved": [
+        false,
+        false,
+        false
+      ],
+      "FirstName": "Kamran",
+      "LastName": "Jafarov"
+    },
+    {
+      "Experience": 9,
+      "AppointmentTimes": [
+        "09:00-11:00",
+        "12:00-14:00",
+        "15:00-17:00"
+      ],
+      "Reserved": [
+        false,
+        false,
+        false
+      ],
+      "FirstName": "Narmin",
+      "LastName": "Qasimova"
+    },
+    {
+      "Experience": 4,
+      "AppointmentTimes": [
+        "09:00-11:00",
+        "12:00-14:00",
+        "15:00-17:00"
+      ],
+      "Reserved": [
+        false,
+        false,
+        false
+      ],
+      "FirstName": "Rasim",
+      "LastName": "Ibrahimov"
+    }
+  ]
+}

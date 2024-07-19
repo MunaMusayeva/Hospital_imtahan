@@ -1,0 +1,35 @@
+{
+  "Name": "Travmatologiya",
+  "Doctors": [
+    {
+      "Experience": 12,
+      "AppointmentTimes": [
+        "09:00-11:00",
+        "12:00-14:00",
+        "15:00-17:00"
+      ],
+      "Reserved": [
+        false,
+        false,
+        false
+      ],
+      "FirstName": "Hasan",
+      "LastName": "Hasanov"
+    },
+    {
+      "Experience": 7,
+      "AppointmentTimes": [
+        "09:00-11:00",
+        "12:00-14:00",
+        "15:00-17:00"
+      ],
+      "Reserved": [
+        false,
+        false,
+        false
+      ],
+      "FirstName": "Nigar",
+      "LastName": "Mammadova"
+    }
+  ]
+}

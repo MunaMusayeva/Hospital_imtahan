@@ -1,0 +1,50 @@
+{
+  "Name": "Pediatriya",
+  "Doctors": [
+    {
+      "Experience": 10,
+      "AppointmentTimes": [
+        "09:00-11:00",
+        "12:00-14:00",
+        "15:00-17:00"
+      ],
+      "Reserved": [
+        true,
+        false,
+        false
+      ],
+      "FirstName": "Ali",
+      "LastName": "Aliyev"
+    },
+    {
+      "Experience": 5,
+      "AppointmentTimes": [
+        "09:00-11:00",
+        "12:00-14:00",
+        "15:00-17:00"
+      ],
+      "Reserved": [
+        false,
+        false,
+        false
+      ],
+      "FirstName": "Veli",
+      "LastName": "Veliev"
+    },
+    {
+      "Experience": 8,
+      "AppointmentTimes": [
+        "09:00-11:00",
+        "12:00-14:00",
+        "15:00-17:00"
+      ],
+      "Reserved": [
+        false,
+        false,
+        false
+      ],
+      "FirstName": "Sara",
+      "LastName": "Quliyeva"
+    }
+  ]
+}
